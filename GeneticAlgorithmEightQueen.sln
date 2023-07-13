@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticAlgorithmEightQueen", "GeneticAlgorithmEightQueen\GeneticAlgorithmEightQueen.csproj", "{A42F80EC-8102-4199-8F74-7163241A9B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42F80EC-8102-4199-8F74-7163241A9B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42F80EC-8102-4199-8F74-7163241A9B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42F80EC-8102-4199-8F74-7163241A9B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42F80EC-8102-4199-8F74-7163241A9B08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA1A877-C2D6-451D-BF66-AFE31D812415}
+	EndGlobalSection
+EndGlobal
